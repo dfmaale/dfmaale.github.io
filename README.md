@@ -1,4 +1,4 @@
-# Faustus Domebale Maale — Academic Portfolio
+# Faustus Domebale Maale - Academic Portfolio
 
 Source repository for [dfmaale.github.io](https://dfmaale.github.io).
 
